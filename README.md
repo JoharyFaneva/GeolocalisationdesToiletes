@@ -1,4 +1,5 @@
 # GeolocalisationdesToiletes
+Trouvez toutes les toilettes autour de vous en un clin d'œil !
 Application mobile pour Android qui permet de localiser les toilettes 
 Code source
 avec Rapport
